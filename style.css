@@ -72,12 +72,13 @@ display: flex;
 flex-direction: row;
  justify-content: space-between;
  flex-wrap: wrap;
+
 }
 
 
 .cards li{
   list-style: none;
- border: 1px solid black;
+ border: 1px solid #fff;
  background-color: #ffffff;
  
   width: 24%;
@@ -90,11 +91,11 @@ flex-direction: row;
  width: 240px;
   text-align: center;
   height: 240px;
+  margin-top: 10px;
 
 }
 
- 
-  
+
   
   .products-wrapper h3{
   font-size: 15px;
@@ -120,7 +121,7 @@ flex-direction: row;
     width: 80%;
     height: 22px;
     margin-left: 17px;
-    margin-bottom: 7px;
+    margin-bottom: 5px;
     font-size: 15px;
     font-weight: 500;
   }
