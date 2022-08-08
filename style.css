@@ -35,6 +35,10 @@ margin: 0 auto;
   .menu-nav{
     margin-left: 30px;
   }
+
+  .logo{
+    font-size:2em;
+  }
   
   .menu-nav ul {
     display: flex;
@@ -108,8 +112,8 @@ flex-direction: row;
   .products-wrapper h3{
   font-size: 15px;
   font-style: italic;
-  margin-bottom: 5px;
   padding-left: 15px;
+  margin-bottom: 8px;
   font-weight: 300;
   
   }
